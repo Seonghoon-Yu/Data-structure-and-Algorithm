@@ -7,4 +7,4 @@
 
 # Data structure
 
-- [Heap](https://deep-learning-study.tistory.com/400)
+- [힙(Heap)](https://deep-learning-study.tistory.com/400)
