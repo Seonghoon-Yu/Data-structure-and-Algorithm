@@ -8,3 +8,7 @@
 # Data structure
 
 - [힙(Heap)](https://deep-learning-study.tistory.com/400)
+
+- [트라이(Trie)](https://deep-learning-study.tistory.com/manage/posts/)
+
+
