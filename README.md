@@ -11,4 +11,9 @@
 
 - [트라이(Trie)](https://deep-learning-study.tistory.com/405)
 
+# Algorithm
+
+- [버블 정렬(bubble sort)](https://deep-learning-study.tistory.com/409)
+
+
 
