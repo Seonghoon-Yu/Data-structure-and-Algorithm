@@ -7,7 +7,7 @@
 
 # Data structure
 
-- [힙(Heap)](https://deep-learning-study.tistory.com/400)
+- [힙(Heap)](https://github.com/Seonghoon-Yu/Data-structure-and-Algorithm/blob/master/data_structure/heap.py)
 
 - [트라이(Trie)](https://deep-learning-study.tistory.com/405)
 
