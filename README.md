@@ -9,11 +9,11 @@
 
 - [힙(Heap)](https://github.com/Seonghoon-Yu/Data-structure-and-Algorithm/blob/master/data_structure/heap.py)
 
-- [트라이(Trie)](https://deep-learning-study.tistory.com/405)
+- [트라이(Trie)](https://github.com/Seonghoon-Yu/Data-structure-and-Algorithm/blob/master/data_structure/trie.py)
 
 # Algorithm
 
-- [버블 정렬(bubble sort)](https://deep-learning-study.tistory.com/409)
+- [버블 정렬(bubble sort)](https://github.com/Seonghoon-Yu/Data-structure-and-Algorithm/blob/master/algorithm/bubble_sort.py)
 
 
 
