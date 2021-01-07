@@ -15,5 +15,7 @@
 
 - [버블 정렬(bubble sort)](https://github.com/Seonghoon-Yu/Data-structure-and-Algorithm/blob/master/algorithm/bubble_sort.py)
 
+- [병합 정렬(merge sort)](https://github.com/Seonghoon-Yu/Data-structure-and-Algorithm/blob/master/algorithm/merge_sort.py)
+
 
 
