@@ -10,9 +10,9 @@ def merge_sort(A, desc = False):
     
     while len(L) > 0 and len(R) > 0:
         if (L[0] > R[0] and not desc) or (L[0] < R[0] and desc):
-            mer.append(R[0])
+            mer.append(R.pop(0))
         else:
-            mer.append(L[0])
+            mer.append(L.pop(0))
             
     if len(L) > 0:
         mer += L
