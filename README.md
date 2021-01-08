@@ -17,5 +17,7 @@
 
 - [병합 정렬(merge sort)](https://github.com/Seonghoon-Yu/Data-structure-and-Algorithm/blob/master/algorithm/merge_sort.py)
 
+- [퀵 정렬(quick sort)](https://github.com/Seonghoon-Yu/Data-structure-and-Algorithm/blob/master/algorithm/quick_sort.py)
+
 
 
