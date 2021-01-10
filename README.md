@@ -19,5 +19,7 @@
 
 - [퀵 정렬(quick sort)](https://github.com/Seonghoon-Yu/Data-structure-and-Algorithm/blob/master/algorithm/quick_sort.py)
 
+- [삽입 정렬(insert sort)](https://github.com/Seonghoon-Yu/Data-structure-and-Algorithm/tree/master/algorithm)
+
 
 
