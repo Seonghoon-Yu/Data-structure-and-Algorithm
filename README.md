@@ -21,5 +21,7 @@
 
 - [삽입 정렬(insertion sort)](https://github.com/Seonghoon-Yu/Data-structure-and-Algorithm/blob/master/algorithm/insertion_sort.py)
 
+- [이진 검색(binary search)](https://github.com/Seonghoon-Yu/Data-structure-and-Algorithm/blob/master/algorithm/Binary_Search.py)
+
 
 
