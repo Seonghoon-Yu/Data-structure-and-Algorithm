@@ -23,6 +23,5 @@
 
 - [이진 검색(binary search)](https://github.com/Seonghoon-Yu/Data-structure-and-Algorithm/blob/master/algorithm/Binary_Search.py)
 
-- [그리디 알고리즘(greedy algorithm)](https://github.com/Seonghoon-Yu/Data-structure-and-Algorithm/tree/master/algorithm/greedy_algorith.py)
-
+- [그리디 알고리즘(greedy algorithm)](https://github.com/Seonghoon-Yu/Data-structure-and-Algorithm/blob/master/algorithm/greedy_algorithm.py)
 
