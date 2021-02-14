@@ -7,6 +7,10 @@
 
 # Data structure
 
+- [단일 연결 리스트(Single Linked List)](https://github.com/Seonghoon-Yu/Data-structure-and-Algorithm/blob/master/data_structure/single_linked_list.py)
+
+- [이중 연결 리스트(Doubly Linked List)](https://github.com/Seonghoon-Yu/Data-structure-and-Algorithm/blob/master/data_structure/doubly_linked_list.py)
+
 - [힙(Heap)](https://github.com/Seonghoon-Yu/Data-structure-and-Algorithm/blob/master/data_structure/heap.py)
 
 - [트라이(Trie)](https://github.com/Seonghoon-Yu/Data-structure-and-Algorithm/blob/master/data_structure/trie.py)
