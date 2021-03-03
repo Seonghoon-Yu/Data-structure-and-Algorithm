@@ -17,6 +17,8 @@
 
 - [원형 큐(Circular Queue)](https://github.com/Seonghoon-Yu/Data-structure-and-Algorithm/blob/master/data_structure/circular_queue.py)
 
+- [원형 데크(Circular Deque)](https://github.com/Seonghoon-Yu/Data-structure-and-Algorithm/blob/master/data_structure/circular_deque)
+
 - [힙(Heap)](https://github.com/Seonghoon-Yu/Data-structure-and-Algorithm/blob/master/data_structure/heap.py)
 
 - [트라이(Trie)](https://github.com/Seonghoon-Yu/Data-structure-and-Algorithm/blob/master/data_structure/trie.py)
