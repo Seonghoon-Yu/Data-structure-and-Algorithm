@@ -21,6 +21,10 @@
 
 - [힙(Heap)](https://github.com/Seonghoon-Yu/Data-structure-and-Algorithm/blob/master/data_structure/heap.py)
 
+- [깊이 우선 탐색(DFS)](https://github.com/Seonghoon-Yu/Data-structure-and-Algorithm/blob/master/data_structure/DFS.py)
+
+- [너비 우선 탐색(BFS)](https://github.com/Seonghoon-Yu/Data-structure-and-Algorithm/blob/master/data_structure/BFS.py)
+
 - [트라이(Trie)](https://github.com/Seonghoon-Yu/Data-structure-and-Algorithm/blob/master/data_structure/trie.py)
 
 # Algorithm
