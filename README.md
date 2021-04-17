@@ -29,6 +29,7 @@
 
 # Algorithm
 
+### Sort
 - [버블 정렬(bubble sort)](https://github.com/Seonghoon-Yu/Data-structure-and-Algorithm/blob/master/algorithm/bubble_sort.py)
 
 - [병합 정렬(merge sort)](https://github.com/Seonghoon-Yu/Data-structure-and-Algorithm/blob/master/algorithm/merge_sort.py)
@@ -36,6 +37,10 @@
 - [퀵 정렬(quick sort)](https://github.com/Seonghoon-Yu/Data-structure-and-Algorithm/blob/master/algorithm/quick_sort.py)
 
 - [삽입 정렬(insertion sort)](https://github.com/Seonghoon-Yu/Data-structure-and-Algorithm/blob/master/algorithm/insertion_sort.py)
+
+### Graph
+- [위상 정렬(topology sort)]()
+
 
 - [이진 검색(binary search)](https://github.com/Seonghoon-Yu/Data-structure-and-Algorithm/blob/master/algorithm/Binary_Search.py)
 
