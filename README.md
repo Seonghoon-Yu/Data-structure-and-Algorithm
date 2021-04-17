@@ -39,9 +39,10 @@
 
 - [너비 우선 탐색(BFS)](https://github.com/Seonghoon-Yu/Data-structure-and-Algorithm/blob/master/data_structure/BFS.py)
 
-- [위상 정렬(topology sort)]()
+- [위상 정렬(topology sort)](https://github.com/Seonghoon-Yu/Data-structure-and-Algorithm/blob/master/algorithm/topology_sort.py)
 
 
+### 미분류
 - [이진 검색(binary search)](https://github.com/Seonghoon-Yu/Data-structure-and-Algorithm/blob/master/algorithm/Binary_Search.py)
 
 - [그리디 알고리즘 - 배낭 문제](https://github.com/Seonghoon-Yu/Data-structure-and-Algorithm/blob/master/algorithm/greedy_algorithm.py)
