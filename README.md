@@ -5,24 +5,6 @@
 
 ---
 
-# Data structure
-
-- [단일 연결 리스트(Single Linked List)](https://github.com/Seonghoon-Yu/Data-structure-and-Algorithm/blob/master/data_structure/single_linked_list.py)
-
-- [이중 연결 리스트(Doubly Linked List)](https://github.com/Seonghoon-Yu/Data-structure-and-Algorithm/blob/master/data_structure/doubly_linked_list.py)
-
-- [스택(Stack)](https://github.com/Seonghoon-Yu/Data-structure-and-Algorithm/blob/master/data_structure/stack.py)
-
-- [큐(Queue)](https://github.com/Seonghoon-Yu/Data-structure-and-Algorithm/blob/master/data_structure/queue.py)
-
-- [원형 큐(Circular Queue)](https://github.com/Seonghoon-Yu/Data-structure-and-Algorithm/blob/master/data_structure/circular_queue.py)
-
-- [원형 데크(Circular Deque)](https://github.com/Seonghoon-Yu/Data-structure-and-Algorithm/blob/master/data_structure/circular_deque)
-
-- [힙(Heap)](https://github.com/Seonghoon-Yu/Data-structure-and-Algorithm/blob/master/data_structure/heap.py)
-
-- [트라이(Trie)](https://github.com/Seonghoon-Yu/Data-structure-and-Algorithm/blob/master/data_structure/trie.py)
-
 # Algorithm
 
 ### Sort
@@ -50,3 +32,24 @@
 - [그리디 알고리즘 - 배낭 문제](https://github.com/Seonghoon-Yu/Data-structure-and-Algorithm/blob/master/algorithm/greedy_algorithm.py)
 
 - [다이나믹 프로그래밍 - 배낭 문제](https://github.com/Seonghoon-Yu/Data-structure-and-Algorithm/blob/master/algorithm/dynamic_programming.py)
+
+
+
+# Data structure
+
+- [단일 연결 리스트(Single Linked List)](https://github.com/Seonghoon-Yu/Data-structure-and-Algorithm/blob/master/data_structure/single_linked_list.py)
+
+- [이중 연결 리스트(Doubly Linked List)](https://github.com/Seonghoon-Yu/Data-structure-and-Algorithm/blob/master/data_structure/doubly_linked_list.py)
+
+- [스택(Stack)](https://github.com/Seonghoon-Yu/Data-structure-and-Algorithm/blob/master/data_structure/stack.py)
+
+- [큐(Queue)](https://github.com/Seonghoon-Yu/Data-structure-and-Algorithm/blob/master/data_structure/queue.py)
+
+- [원형 큐(Circular Queue)](https://github.com/Seonghoon-Yu/Data-structure-and-Algorithm/blob/master/data_structure/circular_queue.py)
+
+- [원형 데크(Circular Deque)](https://github.com/Seonghoon-Yu/Data-structure-and-Algorithm/blob/master/data_structure/circular_deque)
+
+- [힙(Heap)](https://github.com/Seonghoon-Yu/Data-structure-and-Algorithm/blob/master/data_structure/heap.py)
+
+- [트라이(Trie)](https://github.com/Seonghoon-Yu/Data-structure-and-Algorithm/blob/master/data_structure/trie.py)
+
