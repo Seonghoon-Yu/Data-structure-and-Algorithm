@@ -41,6 +41,8 @@
 
 - [위상 정렬(topology sort)](https://github.com/Seonghoon-Yu/Data-structure-and-Algorithm/blob/master/algorithm/topology_sort.py)
 
+- [코사라주 알고리즘(kosaraju's algorithm](https://github.com/Seonghoon-Yu/Data-structure-and-Algorithm/blob/master/algorithm/kosaraju_algorithm.py) - SSC
+
 
 ### 미분류
 - [이진 검색(binary search)](https://github.com/Seonghoon-Yu/Data-structure-and-Algorithm/blob/master/algorithm/Binary_Search.py)
