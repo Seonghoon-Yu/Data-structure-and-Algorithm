@@ -27,7 +27,9 @@
 
 - [이분 그래프 판별(bipartite graph distinction)](https://github.com/Seonghoon-Yu/Data-structure-and-Algorithm/blob/master/algorithm/bipartite_graph_distinction.py) - 무방향 그래프
 
-- [유향 그래프 내에서 순환 판별(cyclic distinction)](https://github.com/Seonghoon-Yu/Data-structure-and-Algorithm/blob/master/algorithm/directed_cyclic_distinction.py)
+- [유향 그래프 내에서 순환 판별(cyclic distinction)](https://github.com/Seonghoon-Yu/Data-structure-and-Algorithm/blob/master/algorithm/directed_cyclic_distinction.py) - dfs로 역방향 간선 존재 확인
+
+- [무방향 그래프 내에서 순환 판별(cyclic distinction)](https://github.com/Seonghoon-Yu/Data-structure-and-Algorithm/blob/master/algorithm/undirected_cycle_distinction.py)
 
 ### 미분류
 - [이진 검색(binary search)](https://github.com/Seonghoon-Yu/Data-structure-and-Algorithm/blob/master/algorithm/Binary_Search.py)
