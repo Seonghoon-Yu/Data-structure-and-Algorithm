@@ -31,6 +31,8 @@
 
 - [무방향 그래프 내에서 순환 판별(cyclic distinction)](https://github.com/Seonghoon-Yu/Data-structure-and-Algorithm/blob/master/algorithm/undirected_cycle_distinction.py)
 
+- [다익스트라 알고리즘(Dijstra Algorithm)](https://github.com/Seonghoon-Yu/Data-structure-and-Algorithm/blob/master/algorithm/dijstra_algorithm.py) - 우선 순위 큐를 사용하는 BFS, 최단 거리 문제
+
 ### 미분류
 - [이진 검색(binary search)](https://github.com/Seonghoon-Yu/Data-structure-and-Algorithm/blob/master/algorithm/Binary_Search.py)
 
