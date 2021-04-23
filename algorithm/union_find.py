@@ -29,3 +29,20 @@ def union(a, b): # a집합과 b집합 합치기
         parent[b] = a # b의 부모를 a의 부모로 변경
     else: # b의 부모가 a 부모보다 상위 루트이면
         parent[a] = b # a의 부모 변경
+
+# Union 연산을 각각 수행
+for i in range(e):
+    a, b = map(int, input().split())
+    union_parent(parent, a, b)
+
+# 각 원소가 속한 집합 출력하기
+print('각 원소가 속한 집합: ', end='')
+for i in range(1, v + 1):
+    print(find_parent(parent, i), end=' ')
+
+print()
+
+# 부모 테이블 내용 출력하기
+print('부모 테이블: ', end='')
+for i in range(1, v + 1):
+    print(parent[i], end=' ')
