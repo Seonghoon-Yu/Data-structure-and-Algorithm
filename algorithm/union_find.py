@@ -11,21 +11,21 @@ parent = [0] * (N+1) # 부모 테이블 초기화
 for i in range(1, N+1):
     parent[i] = i
 
-def find(a): # a 노드의 부모 노드 찾기
-    if a == parent[a]: # a 노드가 부모 노드이면 a 반환
+def find(a): # a 정점의 루트 노드 탐색
+    if parent[a] == a: # a가 루트 노드이면, a 반환
         return a
-    p = find(parent[a]) # a 노드를 따라가면서 부모 노드 찾기
-    parent[a] = p # 부모 테이블 갱신
+    p = find(parent[a]) # 루트 노드 탐색
+    parent[a] = p # a의 루트 노드 갱신
     return parent[a]
 
-def union(a, b): # a집합과 b집합 합치기
-    a = find(a) # a 노드의 부모 노드 찾기
-    b = find(b) # b 노드의 부모 찾기
-
-    if a == b: # 이미 동일한 집합이면 연결시에 순환이 발생
+def union(a, b): # a와 b 집합을 병합
+    a = find(a) # a의 루트 노드 탐색
+    b = find(b) # b의 루트 노드 탐색
+    if a == b: # 루트 노드가 동일하면, 동일한 집합
         return
-
-    if a < b: # a의 부모가 b 부모보다 상위 루트이면
-        parent[b] = a # b의 부모를 a의 부모로 변경
-    else: # b의 부모가 a 부모보다 상위 루트이면
-        parent[a] = b # a의 부모 변경
+    if rank[a] > rank[b]: # rank가 낮은 집합을 rank가 높은 집합으로 병합
+        parent[b] = a # 병합
+    else:
+        parent[a] = b # 집합 병합
+        if rank[a] == rank[b]: # 두 랭크가 동일하면
+            rank[b] += 1 # 랭크 +1
