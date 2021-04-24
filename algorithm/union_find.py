@@ -5,7 +5,8 @@
 
 N = int(input()) # 노드 수 입력 받기
 M = int(input()) # 정점 수 입력 받기
-parent = [0] * (N+1) # 부모 테이블 초기화
+parent = [0] * (N+1) # 부모 테이블 초기
+rank = [0] * (N+1) # 정점의 rank 저장
 
 # 부모 테이블 상에서 자기 자신을 부모로 설정
 for i in range(1, N+1):
