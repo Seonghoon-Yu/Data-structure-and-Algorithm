@@ -37,6 +37,8 @@
 
 - [유니온-파인트 알고리즘(Union-Find Algorithm)](https://github.com/Seonghoon-Yu/Data-structure-and-Algorithm/blob/master/algorithm/union_find.py) - 두 개의 분리 집합을 하나의 집합으로 병합
 
+- [크루스컬 알고리즘(Kruskal Algorithm)](https://github.com/Seonghoon-Yu/Data-structure-and-Algorithm/blob/master/algorithm/kruskal_algorithm) - MST
+
 ### 미분류
 - [이진 검색(binary search)](https://github.com/Seonghoon-Yu/Data-structure-and-Algorithm/blob/master/algorithm/Binary_Search.py)
 
