@@ -35,7 +35,7 @@
 
 - [벨만-포드 알고리즘(Bellman-Ford Algorithm)](https://github.com/Seonghoon-Yu/Data-structure-and-Algorithm/blob/master/algorithm/bellman_ford.py) - 음의 간선이 존재하는 경우 사용하는 최단 거리 알고리즘
 
-- [유니온-파인트 알고리즘(Union-Find Algorithm)](https://github.com/Seonghoon-Yu/Data-structure-and-Algorithm/blob/master/algorithm/union_find.py) - 무방향 그래프를 순환이 없는 그래프로 변경
+- [유니온-파인트 알고리즘(Union-Find Algorithm)](https://github.com/Seonghoon-Yu/Data-structure-and-Algorithm/blob/master/algorithm/union_find.py) - 두 개의 분리 집합을 하나의 집합으로 병합
 
 ### 미분류
 - [이진 검색(binary search)](https://github.com/Seonghoon-Yu/Data-structure-and-Algorithm/blob/master/algorithm/Binary_Search.py)
