@@ -23,7 +23,7 @@
 
 - [위상 정렬(topology sort)](https://github.com/Seonghoon-Yu/Data-structure-and-Algorithm/blob/master/algorithm/topology_sort.py) - 유향 그래프
 
-- [코사라주 알고리즘(kosaraju's algorithm](https://github.com/Seonghoon-Yu/Data-structure-and-Algorithm/blob/master/algorithm/kosaraju_algorithm.py) - 유향 그래프 내에서 SSC 찾기
+- [코사라주 알고리즘(kosaraju's algorithm](https://github.com/Seonghoon-Yu/Data-structure-and-Algorithm/blob/master/algorithm/kosaraju_algorithm.py) - 유향 그래프 내에서 SC 찾기
 
 - [이분 그래프 판별(bipartite graph distinction)](https://github.com/Seonghoon-Yu/Data-structure-and-Algorithm/blob/master/algorithm/bipartite_graph_distinction.py) - 무방향 그래프
 
