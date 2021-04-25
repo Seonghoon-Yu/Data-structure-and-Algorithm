@@ -25,7 +25,7 @@
 
 - [코사라주 알고리즘(kosaraju's algorithm](https://github.com/Seonghoon-Yu/Data-structure-and-Algorithm/blob/master/algorithm/kosaraju_algorithm.py) - 유향 그래프 내에서 SC 찾기
 
-- [이분 그래프 판별(bipartite graph distinction)](https://github.com/Seonghoon-Yu/Data-structure-and-Algorithm/blob/master/algorithm/bipartite_graph_distinction.py) - 무방향 그래프
+- [이분 그래프 판별(bipartite graph distinction)](https://github.com/Seonghoon-Yu/Data-structure-and-Algorithm/blob/master/algorithm/bipartite_graph_distinction.py) - 노드를 두 그룹으로 분할
 
 - [유향 그래프 내에서 순환 판별(cyclic distinction)](https://github.com/Seonghoon-Yu/Data-structure-and-Algorithm/blob/master/algorithm/directed_cyclic_distinction.py) - dfs로 역방향 간선 존재 확인
 
@@ -37,9 +37,9 @@
 
 - [유니온-파인트 알고리즘(Union-Find Algorithm)](https://github.com/Seonghoon-Yu/Data-structure-and-Algorithm/blob/master/algorithm/union_find.py) - 두 개의 분리 집합을 하나의 집합으로 병합
 
-- [크루스컬 알고리즘(Kruskal Algorithm)](https://github.com/Seonghoon-Yu/Data-structure-and-Algorithm/blob/master/algorithm/kruskal_algorithm) - MST
+- [크루스컬 알고리즘(Kruskal Algorithm)](https://github.com/Seonghoon-Yu/Data-structure-and-Algorithm/blob/master/algorithm/kruskal_algorithm) - MST, 가중치 순 노드 정렬, union-find 사용
 
-- [프림 알고리즘(Prim Algorithm)]()
+- [프림 알고리즘(Prim Algorithm)](https://github.com/Seonghoon-Yu/Data-structure-and-Algorithm/blob/master/algorithm/prim_algorithm.py) - MST, 다익스트라와 유사
 
 ### 미분류
 - [이진 검색(binary search)](https://github.com/Seonghoon-Yu/Data-structure-and-Algorithm/blob/master/algorithm/Binary_Search.py)
