@@ -39,6 +39,8 @@
 
 - [크루스컬 알고리즘(Kruskal Algorithm)](https://github.com/Seonghoon-Yu/Data-structure-and-Algorithm/blob/master/algorithm/kruskal_algorithm) - MST
 
+- [프림 알고리즘(Prim Algorithm)]()
+
 ### 미분류
 - [이진 검색(binary search)](https://github.com/Seonghoon-Yu/Data-structure-and-Algorithm/blob/master/algorithm/Binary_Search.py)
 
