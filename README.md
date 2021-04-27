@@ -42,7 +42,7 @@
 - [프림 알고리즘(Prim Algorithm)](https://github.com/Seonghoon-Yu/Data-structure-and-Algorithm/blob/master/algorithm/prim_algorithm.py) - MST, 다익스트라와 유사
 
 ### Dynamic Programming
-- [피보니치 수열]()
+- [피보니치 수(Fibonacci number](https://github.com/Seonghoon-Yu/Data-structure-and-Algorithm/blob/master/algorithm/fibonacci.py)
 
 - [배낭 문제](https://github.com/Seonghoon-Yu/Data-structure-and-Algorithm/blob/master/algorithm/dynamic_programming.py)
 
@@ -52,7 +52,6 @@
 
 - [그리디 알고리즘 - 배낭 문제](https://github.com/Seonghoon-Yu/Data-structure-and-Algorithm/blob/master/algorithm/greedy_algorithm.py)
 
-- [배낭 문제](https://github.com/Seonghoon-Yu/Data-structure-and-Algorithm/blob/master/algorithm/dynamic_programming.py)
 
 
 
