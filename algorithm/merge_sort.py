@@ -1,21 +1,36 @@
-def merge_sort(A, desc = False):
-    if len(A) <= 1:
-        return A
-    
-    mid = len(A) // 2
-    
-    L = merge_sort(A[:mid], desc)
-    R = merge_sort(A[mid:], desc)
+import sys
+sys.setrecursionlimit(10**6)
+input = sys.stdin.readline
+
+N = int(input())
+arr = []
+for i in range(N):
+    arr.append(int(input()))
+
+def merge_sort(arr):
+    if len(arr) <= 1:
+        return arr
+    mid = len(arr)//2
+    L = merge_sort(arr[:mid]) # 분할
+    R = merge_sort(arr[mid:]) # 분할
     mer = []
-    
-    while len(L) > 0 and len(R) > 0:
-        if (L[0] > R[0] and not desc) or (L[0] < R[0] and desc):
-            mer.append(R.pop(0))
+
+    i = 0
+    j = 0
+    while i < len(L) and j < len(R): # 정렬 및 결합
+        if (L[i] > R[j]):
+            mer.append(R[j])
+            j += 1
         else:
-            mer.append(L.pop(0))
-            
-    if len(L) > 0:
-        mer += L
-    if len(R) > 0:
-        mer += R
+            mer.append(L[i])
+            i += 1
+
+    if i != len(L):
+        mer += L[i:]
+    if j != len(R):
+        mer += R[j:]
     return mer
+
+mer = merge_sort(arr)
+for i in mer:
+    print(i)
